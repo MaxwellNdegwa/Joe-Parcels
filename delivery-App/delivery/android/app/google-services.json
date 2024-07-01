@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494631553232",
+    "project_id": "jpapp-f5707",
+    "storage_bucket": "jpapp-f5707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494631553232:android:a9a5a36a63955f57c376d5",
+        "android_client_info": {
+          "package_name": "com.joeparcels.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSInV20bS38tqUvUydSxEX1RXVohYhbPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494631553232:android:34950da507716742c376d5",
+        "android_client_info": {
+          "package_name": "com.joeparcels.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSInV20bS38tqUvUydSxEX1RXVohYhbPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
